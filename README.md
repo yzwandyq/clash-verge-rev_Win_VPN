@@ -18,6 +18,7 @@ A Clash Meta GUI based on <a href="https://github.com/tauri-apps/tauri">Tauri</a
 ## 安装下载Install
 
 请到发布页面下载对应的安装包：https://github.com/clash-verge-rev/clash-verge-rev/releases
+
 Supports Windows (x64/x86), Linux (x64/arm64) and macOS 10.15+ (intel/apple).
 
 https://clash-verge-rev.github.io
